@@ -1,0 +1,10 @@
+# Site settings
+title: Mohammed Sohail
+tag_text: Mohammed Sohail
+description: My Personal Site
+
+# Build settings
+markdown: kramdown
+exclude: ["README.md"]
+sass:
+  style: compressed
