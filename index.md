@@ -28,7 +28,7 @@ I primarily do Web Development primarily using [Node.JS](https://nodejs.org/en/)
 
 [🔨 ThorsHammer](https://github.com/kamikazechaser/ThorsHammer)
 
-[🐎 LNKbind [Private]
+🐎 LNKbind [Private]
 
 [📩 sabekREST](https://github.com/SabekSystems/sabekREST)
 
