@@ -17,12 +17,19 @@ I primarily do Web Development primarily using [Node.JS](https://nodejs.org/en/)
 ## Projects
 
 [👤 tg-resolve](https://github.com/kamikazechaser/tg-resolve)
+
 [💡 ServerBot](https://github.com/kamikazechaser/serverbot)
+
 [📘 SkimBot](https://github.com/kamikazechaser/skimbot)
+
 [💰 LiveCoinBot](https://github.com/kamikazechaser/livecoinbot)
+
 [🎨 rangi](https://github.com/kamikazechaser/rangi)
+
 [🔨 ThorsHammer](https://github.com/kamikazechaser/ThorsHammer)
+
 [🐎 LNKbind [Private]
+
 [📩 sabekREST](https://github.com/SabekSystems/sabekREST)
 
 Tons Of Private Projects Too!
