@@ -4,7 +4,7 @@ layout: default
 ---
 ## About Me
 
-Hello! I am Mohammed Sohail (or KamikazeChaser on the Internet). Currently pursuing a bachelor degree in Computer Science and Engineering.
+Hello! I am Mohammed Sohail (or kamikazechaser on the Internet). Currently pursuing a bachelor degree in Computer Science and Engineering.
 
 ## Projects
 
@@ -29,4 +29,3 @@ Hello! I am Mohammed Sohail (or KamikazeChaser on the Internet). Currently pursu
 
 Mohammed Sohail ([Telegram](https://telegram.me/kamikazechaser)/[Twitter](http://twitter.com/sohailsameja)/[GitHub](https://github.com/kamikazechaser)/[Steam](https://steamcommunity.com/id/kamikazechaser)/[E-mail](mailto:sohailsameja@gmail.com)).
 
-```
