@@ -8,7 +8,7 @@ Hello! I am Mohammed Sohail (or kamikazechaser on the Internet). Currently pursu
 
 ## Find Me On
 
-Mohammed Sohail ([Telegram](https://telegram.me/kamikazechaser)/[Twitter](http://twitter.com/sohailsameja)/[GitHub](https://github.com/kamikazechaser)/[Steam](https://steamcommunity.com/id/kamikazechaser)/[E-mail](mailto:sohailsameja@gmail.com)).
+Mohammed Sohail ([Telegram](https://telegram.me/kamikazechaser)/[Twitter](http://twitter.com/sohailsameja)/[GitHub](https://github.com/kamikazechaser)/[Stack Overflow](https://stackoverflow.com/users/6004371/mohammed-sohail)/[Steam](https://steamcommunity.com/id/kamikazechaser)/[E-mail](mailto:sohailsameja@gmail.com)).
 
 
 ```
